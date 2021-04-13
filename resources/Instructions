@@ -1,0 +1,11 @@
+Upon starting it will prompt to ask if you want to go first or second.
+inputing "1" will have you go first where any other input will default to second.
+
+it will then ask which token you would like to be.
+inputting "W" or "w" will have you be white where any other input will default to black.
+
+when it is your turn it will ask for which box you will like to place a piece in (1-4)
+after that it will ask for which position in that box(1-9) 
+if either input is invalid then you will be prompted to enter both again.
+
+when won player wins the program will stop.
